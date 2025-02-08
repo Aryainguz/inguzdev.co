@@ -10,7 +10,7 @@ export const metadata = {
   creator: "Aryan Inguz",
   publisher: "Aryan Inguz",
   description:
-    "I'm Aryan Inguz, a web developer and cybersecurity enthusiast",
+    "I'm Aryan Inguz, full stack web and mobile app developer",
   keywords: [
     "Aryan Inguz",
     "Inguz Dev",
@@ -23,7 +23,7 @@ export const metadata = {
   openGraph: {
     title: "Aryan Inguz",
     description:
-      "I'm Aryan Inguz, a web developer and cybersecurity enthusiast",
+      "I'm Aryan Inguz, full web and mobile app developer",
     url: "https://inguzdev.co",
     siteName: "Aryan Inguz",
     images: [
