@@ -15,8 +15,8 @@ export const DATA = {
       href: "https://www.chitkara.edu.in",
       degree: "Bachelor of Engineering in Computer Science [ 8.31 CGPA ]",
       logoUrl: "/images/professional/cuiet.png",
-      start: "2024",
-      end: "2020",
+      start: "2022",
+      end: "2026",
     },
   ],
   connect:
