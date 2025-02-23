@@ -106,9 +106,8 @@ const Hero = () => {
             specializing in TypeScript, React.js, and Next.js. With a proven
             track record of delivering 30+ large-scale freelancing projects—many
             of which have evolved into startups—I’ve also provided over 200
-            hours of dedicated client support. I’m passionate about system
-            design and cybersecurity, spending my free time playing CTF games
-            and uncovering vulnerabilities in applications.
+            hours of dedicated client support. I’m passionate about full stack engineering, system
+            design and app development, spending my free time playing trying out hacking and uncovering vulnerabilities in applications.
             <RoughNotation type="box" show color="cyan">
               {" "}
               <span className="text-blue-600">
