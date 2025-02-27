@@ -77,11 +77,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <Script
-          defer
-          src="https://cloud.umami.is/script.js"
-          data-website-id="d3c56799-22aa-4622-b0d5-b686d3adf197"
-        />
       </head>
       <link rel="shortcut icon" href="/images/profile.jpg" />
       <body className="bg-white dark:bg-slate-950">
